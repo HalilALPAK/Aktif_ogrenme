@@ -15,7 +15,7 @@ Amaç
 - Feedback-Driven Discovery: Modelin belirsiz olduğu örneklerin yanı sıra kullanıcı tarafından raporlanan gerçek hatalara öncelik verir.
 - SAM2 Box Refinement: Kaba (loose) bounding box'ları MobileSAM ile tight (objeyi saran) kutulara dönüştürür.
 - Efficiency Layer: Her hata bildirimi SAM2'ye gönderilmez; IoU ve objectness tabanlı filtreleme ile gereksiz hesaplamalar azaltılır.
-- Experience Replay (%90 / %10): Fine-tuning sırasında %90 eski (doğru) veri, %10 yeni (rafine edilmiş) veri kullanılarak katastrofik unutma engellenir.
+- Experience Replay (%70 / %30): Fine-tuning sırasında %70 eski (doğru) veri, %30 yeni (rafine edilmiş) veri kullanılarak katastrofik unutma engellenir.
 
 Teknik mimari (yüksek seviye)
 
