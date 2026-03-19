@@ -87,7 +87,8 @@ Dosya/dizin yapısı (örnek)
 - models/
   - mobile_sam.pt
   - best_yolo.pt
-- README_ACTIVE_LEARNING.md
+ 
+    medium:https://medium.com/@halilalpak511/kullan%C4%B1c%C4%B1-geri-bildirimi-ve-sam2-ile-aktif-%C3%B6%C4%9Frenme-human-in-the-loop-5d61fa4c70f2
 
 Lisans
 
