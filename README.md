@@ -2,9 +2,8 @@
 
 # Active Learning with SAM2 — Feedback-Driven Label Refinement
 
-Kısa açıklama
 
-Bu proje, "kalitesiz etiketlenmiş veri" problemini azaltmak için Aktif Öğrenme (Active Learning) ve SAM2 (Segment Anything Model 2 / MobileSAM) teknolojilerini birleştiren uçtan-uça bir pipeline sunar. Sistem, kullanıcı geri bildirimlerini (hatalı tahminler) alır, bu örnekleri piksel hassasiyetinde SAM2 ile rafine eder ve modelin performansını koruyarak küçük bir oran (%10) ile yeniden eğitir (fine-tune).
+Bu proje, "kalitesiz etiketlenmiş veri" problemini azaltmak için Aktif Öğrenme (Active Learning) ve SAM2 (Segment Anything Model 2 / MobileSAM) teknolojilerini birleştiren uçtan-uça bir pipeline sunar. Sistem, kullanıcı geri bildirimlerini (hatalı tahminler) alır, bu örnekleri piksel hassasiyetinde SAM2 ile rafine eder ve modelin performansını koruyarak küçük bir oran ile yeniden eğitir (fine-tune).
 
 Amaç
 
