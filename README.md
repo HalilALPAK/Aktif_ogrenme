@@ -1,3 +1,5 @@
+<img width="1100" height="600" alt="image" src="https://github.com/user-attachments/assets/0fba874d-661a-4382-bfce-925fb9f6b604" />
+
 # Active Learning with SAM2 — Feedback-Driven Label Refinement
 
 Kısa açıklama
